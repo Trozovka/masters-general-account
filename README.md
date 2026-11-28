@@ -2,7 +2,7 @@
 
 **How I turned a pile of linked spreadsheets into one checked Excel file**
 
-By **John Winsome Munar (Trozovka)**, Master Mariner
+By **John Winsome Munar**, Master Mariner
 [trozovka.github.io](https://trozovka.github.io) · [GitHub](https://github.com/Trozovka)
 
 ---
@@ -250,7 +250,7 @@ match them.
 
 ---
 
-**About the author.** John Winsome Munar (Trozovka) is a Master Mariner who builds
+**About the author.** John Winsome Munar is a Master Mariner who builds
 practical software for seafarers, including WX weather apps for slow ship internet,
 PocketMOB Alert (man-overboard alarm), PocketVDR (voyage data recorder) and OpenCPN
 GPS Server. More at [trozovka.github.io](https://trozovka.github.io).
